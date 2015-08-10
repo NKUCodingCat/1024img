@@ -92,7 +92,6 @@ def Pre_fetch(HomePage_url, sess):
 		
 		
 if __name__ == "__main__":
-	
 	Page_list = Queue()
 	Forum_list = Queue()
 	DB = db_handler.db_proc()
